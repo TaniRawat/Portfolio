@@ -1,0 +1,9 @@
+window.APP_CONFIG = {
+  SUPABASE_URL: "https://YOUR_PROJECT_ID.supabase.co",
+  SUPABASE_ANON_KEY: "YOUR_SUPABASE_ANON_KEY",
+  CLOUDINARY_CLOUD_NAME: "YOUR_CLOUDINARY_CLOUD_NAME",
+  CLOUDINARY_UPLOAD_PRESET: "YOUR_UNSIGNED_UPLOAD_PRESET",
+  STORAGE_BUCKET: "portfolio-assets",
+  ADMIN_EMAIL: "your-admin-email@example.com",
+  ADMIN_PASSWORD: "your-admin-password"
+};
